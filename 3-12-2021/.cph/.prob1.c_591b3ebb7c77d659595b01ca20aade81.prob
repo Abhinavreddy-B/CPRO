@@ -1,0 +1,1 @@
+{"name":"Local: prob1","url":"/home/abhinav/abhi/C programming/Assignments/3-12-2021/prob1.c","tests":[{"id":1640255941546,"input":"3 4 5","output":"YES"},{"id":1640255954362,"input":"12 16 22","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/abhinav/abhi/C programming/Assignments/3-12-2021/prob1.c","group":"local","local":true}
